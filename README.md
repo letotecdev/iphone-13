@@ -6,7 +6,7 @@ Uma reprodução visual do iPhone 13 desenvolvida com HTML e CSS, criada com o o
 
 ### Preview
 
-![Preview do Projeto](./assets/preview.png)
+![Preview do Projeto](./img/site.png)
 
 > Adicione um print da aplicação na pasta `assets`.
 
